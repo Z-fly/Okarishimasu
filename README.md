@@ -25,10 +25,10 @@ else:
 运行时按回车键顺序截图，按q回车退出，也可按Ctrl+C快速退出。
 
 ## 使用方法
-1. 安装Python3
+1. 安装Python3<br>
 https://www.python.org/downloads/
 2. 命令行执行pip install opencv-python
-3. 安装SDK Platform Tools
+3. 安装SDK Platform Tools<br>
 https://developer.android.google.cn/studio/releases/platform-tools.html
-下载解压至$PATH目录<br>Linux&Mac OS X：/usr/local/bin/<br>Windows ：C:\WINDOWS\
+<br>下载解压至$PATH目录<br>Linux&Mac OS X：/usr/local/bin/<br>Windows ：C:\WINDOWS\
 4. 连接安卓手机，在任意目录执行本脚本
