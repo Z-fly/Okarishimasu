@@ -26,7 +26,5 @@ https://www.python.org/downloads/
 2. 命令行执行pip install opencv-python
 3. 安装SDK Platform Tools
 https://developer.android.google.cn/studio/releases/platform-tools.html
-下载解压至$PATH目录
-Linux&Mac OS X：/usr/local/bin/
-Windows ：C:\WINDOWS\
+下载解压至$PATH目录<br>Linux&Mac OS X：/usr/local/bin/<br>Windows ：C:\WINDOWS\
 4. 连接安卓手机，在任意目录执行本脚本
