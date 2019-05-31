@@ -34,7 +34,7 @@ https://www.python.org/downloads/
 3. 安装SDK Platform Tools<br>
 https://developer.android.google.cn/studio/releases/platform-tools.html
 <br>下载解压至$PATH目录<br>Linux&Mac OS X：/usr/local/bin/<br>Windows ：C:\WINDOWS\
-4. 连接安卓手机，在任意目录执行本脚本
+4. 连接安卓手机，手机上打开USB调试，在任意目录执行本脚本
 
 ## 使用举例
 新建目录，打开命令行，CD至此目录，打开手机，用数据线连接电脑，手机上打开漫画APP，点击阅读漫画某话的第1页，执行脚本，按下回车键，出现01.jpg，然后翻页，按下回车键，出现02.jpg，依此类推，直到这话翻完。<br>输入q回车退出，之后可使用压缩命令`7z -mx=9 a filename.7z *`打包，至此一个流程结束，上传到网站。
