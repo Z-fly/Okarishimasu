@@ -3,7 +3,7 @@
 
 ### 92话起同步更新
 91话之前的可以去bika看，百度一搜能直接下APP的。<br>
-整话打包见Releases,页面短网址：http://vurl.cn/zjny1
+整话打包见Releases，页面短网址：http://vurl.cn/zjny1
 
 ```python
 #!/usr/bin/env python3
