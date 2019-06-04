@@ -1,5 +1,7 @@
 # 租借女友
 **彼女、お借りします**
+正版地址：https://manga.bilibili.com/m/detail/mc26446
+
 
 ### 92话起同步更新
 91话之前的可以去bika看，百度一搜能直接下APP的。<br>
