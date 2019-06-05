@@ -6,6 +6,7 @@
 ### 92话起同步更新
 91话之前的可以去bika看，百度一搜能直接下APP的。<br>
 整话打包见Releases，页面短网址：http://vurl.cn/zjny1<br>
+同时MEGA网盘同步上传：http://url.cn/5OD9n7n<br>
 GitHub下载太慢的解决方法：https://blog.csdn.net/qing666888/article/details/79123742
 
 
