@@ -10,9 +10,6 @@
 GitHub下载太慢的解决方法：https://blog.csdn.net/qing666888/article/details/79123742<br>
 阿里云同步上传（方便国内访问）：http://vurl.cn/zjny2
 
-### 群：239120775（主要交流技术）
-加群连接：https://dwz.cn/WPAooGMb
-
 ```python
 #!/usr/bin/env python3
 from os import path, popen, remove
