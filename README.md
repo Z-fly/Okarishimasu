@@ -4,7 +4,7 @@
 
 
 ### 92话起同步更新
-91话之前的可以去bika看，百度一搜能直接下APP的。<br>
+91话之前的可以去bika或KuKu看，bika百度一搜能直接下APP的。<br>
 1~88话PDF单文件打包：https://dwz.cn/WPPlldNO (1.55GB)<br>
 整话打包见Releases，页面短网址：http://vurl.cn/zjny1<br>
 GitHub下载太慢的解决方法：https://blog.csdn.net/qing666888/article/details/79123742<br>
