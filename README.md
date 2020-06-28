@@ -6,7 +6,7 @@
 ### 镜像地址
 https://github.com.cnpmjs.org/Z-fly/Okarishimasu
 
-
+## 使用说明
 ```python
 #!/usr/bin/env python3
 from os import path, popen, remove
@@ -25,7 +25,6 @@ else:
     exit(0)
 
 ```
-## 使用说明
 此脚本用于把漫画资源截图导出到脚本运行目录，并裁剪压缩，对其它漫画同理，更改[190:1730, 0:1920]裁剪参数即可。
 运行时按回车键顺序截图，按q回车退出，也可按Ctrl+C快速退出。
 
