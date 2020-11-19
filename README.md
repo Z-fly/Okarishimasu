@@ -4,7 +4,7 @@
 
 
 ### 镜像地址
-https://github.com.cnpmjs.org/Z-fly/Okarishimasu
+https://github.wuyanzheshui.workers.dev/Z-fly/Okarishimasu
 
 ## 使用说明
 ```python
